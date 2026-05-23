@@ -85,10 +85,12 @@ I help startups, agencies, and businesses transform ideas into **real-world soft
 
 ## Featured Projects
 
-- 🔹 **SaaS Platform Dashboard** – Laravel + Vue/React based multi-tenant system
-- 🔹 **E-commerce System** – Custom PHP/Laravel with payment integration
-- 🔹 **Mobile App Solution** – Flutter app with API backend
-- 🔹 **Next.js Web Platform** – SEO optimized business website
+- 🔹 **SaaS Platform Dashboard** – Laravel + React based multi-tenant business management system  
+- 🔹 **E-commerce System** – Custom PHP/Laravel store with secure payment gateway integration  
+- 🔹 **Mobile App Solution** – Flutter & React Native app connected with scalable API backend  
+- 🔹 **Next.js Web Platform** – High-performance SEO optimized business website  
+- 🔹 **Custom Admin Panel** – Advanced analytics dashboard with role-based access management  
+- 🔹 **REST API Architecture** – Secure and scalable APIs for web & mobile applications  
 
 ---
 
