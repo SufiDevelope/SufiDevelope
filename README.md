@@ -1,12 +1,7 @@
 <!-- ===================== HERO SECTION ===================== -->
 
-<h1 align="center">
-  Hi 👋, I'm Muhammad Sufyan
-</h1>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
-</p>
+<h1 align="center">Hi, I'm Muhammad Sufyan</h1> 
+<h3 align="center">Full-Stack Developer | Laravel • Next.js • Mobile Apps • Custom Web Solutions</h3>
 
 <p align="center">
  I build high-performance, scalable, and conversion-focused web & mobile applications for businesses and startups.
