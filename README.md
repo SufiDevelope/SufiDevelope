@@ -92,20 +92,6 @@ I help startups, agencies, and businesses transform ideas into **real-world soft
 
 ---
 
-<!-- ===================== GITHUB STATS ===================== -->
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SufiDevelope&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SufiDevelope&theme=tokyonight" />
-</p>
-
----
-
 <!-- ===================== CONTACT ===================== -->
 
 ## Let’s Connect
