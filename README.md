@@ -108,7 +108,7 @@ I help startups, agencies, and businesses transform ideas into **real-world soft
 
 <!-- ===================== CONTACT ===================== -->
 
-## 📬 Let’s Connect
+## Let’s Connect
 
 - 📧 Email: sufyan1120111@gmail.com  
 - 💼 Upwork: https://www.upwork.com/freelancers/~01c3979fcacbce026e 
@@ -123,5 +123,5 @@ I help startups, agencies, and businesses transform ideas into **real-world soft
 If you're looking for a **reliable, experienced, and results-driven developer**, I’m ready to turn your idea into reality.
 
 <p align="center">
-💬 Feel free to reach out — let’s create something impactful!
+Feel free to reach out at muhammadsufyan112011@gmail.com let’s create something impactful!
 </p>
