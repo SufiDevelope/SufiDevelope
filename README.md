@@ -1,10 +1,10 @@
 <!-- ===================== HERO SECTION ===================== -->
 
-<h1 align="center">Hi 👋, I'm Muhammad Sufyan</h1>
+<h1 align="center">Hi, I'm Muhammad Sufyan</h1>
 <h3 align="center">Full-Stack Developer | Laravel • Next.js • Mobile Apps • Custom Web Solutions</h3>
 
 <p align="center">
-🚀 I build high-performance, scalable, and conversion-focused web & mobile applications for businesses and startups.
+ I build high-performance, scalable, and conversion-focused web & mobile applications for businesses and startups.
 </p>
 
 <p align="center">
@@ -17,22 +17,22 @@
 
 <!-- ===================== ABOUT ME ===================== -->
 
-## 🧠 About Me
+## About Me
 
 I’m a passionate Full-Stack Developer specialized in building **modern, scalable, and business-driven digital products**.
 
 I help startups, agencies, and businesses transform ideas into **real-world software solutions** using clean architecture, performance optimization, and modern tech stacks.
 
-- ⚡ Strong backend expertise with **Laravel, CodeIgniter, Core PHP**
-- 🌐 Frontend & full-stack apps using **Next.js & React.js**
-- 📱 Mobile app development using **Flutter & React Native**
-- 🔧 API development, SaaS platforms, dashboards & custom systems
+- Strong backend expertise with **Laravel, CodeIgniter, Core PHP**
+- Frontend & full-stack apps using **Next.js & React.js**
+- Mobile app development using **Flutter & React Native**
+- API development, SaaS platforms, dashboards & custom systems
 
 ---
 
 <!-- ===================== SKILLS ===================== -->
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Backend
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
@@ -56,36 +56,34 @@ I help startups, agencies, and businesses transform ideas into **real-world soft
 
 <!-- ===================== SERVICES ===================== -->
 
-## 💼 Services I Offer
+## Services I Offer
 
-- ⚙️ Custom Web Application Development (Laravel / Node.js)
-- 🌍 Modern Websites (Next.js / React.js)
-- 🛒 E-commerce Solutions (WooCommerce / Custom PHP)
-- 📱 Mobile App Development (Flutter / React Native)
-- 🔌 REST & GraphQL API Development
-- 🧠 SaaS & Dashboard Systems
-- 🔧 Bug Fixing, Optimization & Legacy System Upgrade
+- Custom Web Application Development (Laravel / Node.js)
+- Modern Websites (Next.js / React.js)
+- E-commerce Solutions (WooCommerce / Custom PHP)
+- Mobile App Development (Flutter / React Native)
+- REST & GraphQL API Development
+- SaaS & Dashboard Systems
+- Bug Fixing, Optimization & Legacy System Upgrade
 
 ---
 
 <!-- ===================== WHY HIRE ME ===================== -->
 
-## ⭐ Why Hire Me?
+## Why Hire Me?
 
-- 🚀 Focus on **business results, not just code**
-- 🧱 Clean, scalable, and maintainable architecture
-- ⚡ Fast delivery without compromising quality
-- 🔒 Secure backend development practices
-- 📈 Performance & SEO optimized solutions
-- 🤝 Long-term collaboration mindset
+- Focus on **business results, not just code**
+- Clean, scalable, and maintainable architecture
+- Fast delivery without compromising quality
+- Secure backend development practices
+- Performance & SEO optimized solutions
+- Long-term collaboration mindset
 
 ---
 
 <!-- ===================== PROJECTS ===================== -->
 
-## 🚀 Featured Projects
-
-> ⚠️ Replace these placeholders with your real projects
+## Featured Projects
 
 - 🔹 **SaaS Platform Dashboard** – Laravel + Vue/React based multi-tenant system
 - 🔹 **E-commerce System** – Custom PHP/Laravel with payment integration
