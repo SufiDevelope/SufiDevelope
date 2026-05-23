@@ -4,14 +4,9 @@
   Hi 👋, I'm Muhammad Sufyan
 </h1>
 
-<h3 align="center">
-  <a href="https://git.io/typing-svg">
-    <img 
-      src="https://readme-typing-svg.herokuapp.com? font=Poppins&size=28&duration=3000&pause=1000&color=00C853&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Laravel+%7C+Next.js+Expert;Mobile+App+Developer;React+%26+Node.js+Engineer;Building+Scalable+Digital+Products" 
-      alt="Typing SVG" 
-    />
-  </a>
-</h3>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
+</p>
 
 <p align="center">
  I build high-performance, scalable, and conversion-focused web & mobile applications for businesses and startups.
