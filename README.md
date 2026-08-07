@@ -1,6 +1,6 @@
 # Hi, I'm Muhammad Sufyan 👋
 
-### Senior Full Stack Developer | PHP, React, Flutter & AI
+### Senior Full Stack Developer | Laravel, React, Flutter & AI
 
 I’m a Senior Full Stack Developer with 4+ years of experience building web applications, mobile apps, SaaS platforms, APIs, and AI-powered solutions.
 
