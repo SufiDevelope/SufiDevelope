@@ -162,6 +162,9 @@ HabeshaPost — a social media marketing platform for managing campaigns, servic
 🔗 **LinkedIn:**
 [Connect on LinkedIn](https://linkedin.com/in/muhammad-sufyan-576345255)
 
+🔗 **My Portfolio Website:**
+[View my Portfolio](https://muhammadsufyan-portfolio.vercel.app)
+
 ---
 
 ### Open to Freelance & Development Opportunities
