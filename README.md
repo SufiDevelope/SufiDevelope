@@ -29,7 +29,18 @@
 
 ## 👨‍💻 About Me
 
+<table>
+  <tr>
+    <td width="240" align="center" valign="middle">
+      <img src="https://muhammadsufyan-portfolio.vercel.app/images/profile/sufyan.webp" alt="Muhammad Sufyan" width="220" />
+    </td>
+    <td valign="middle">
+
 I'm a **Full Stack Developer with 4+ years of experience** building web applications and mobile apps, mainly in **Laravel** and **Flutter**, with **CodeIgniter** and **core PHP** as my secondary stack. I help startups, businesses and agencies turn ideas into reliable, scalable products, and I've integrated **OpenAI APIs** into Laravel projects where AI features were part of the scope.
+
+</td>
+  </tr>
+</table>
 
 <table>
   <tr>
