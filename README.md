@@ -1,7 +1,7 @@
 <!-- ===================== HEADER ===================== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12,14,18,24&height=240&section=header&text=Muhammad%20Sufyan&fontSize=62&fontColor=ffffff&fontAlignY=40&animation=fadeIn&desc=AI-Powered%20Flutter%20%26%20Laravel%20Developer&descSize=22&descAlignY=62&descColor=2bd0ee" alt="Muhammad Sufyan" width="100%" />
+<img src="./assets/banner.svg" alt="Muhammad Sufyan - AI-Powered Flutter & Laravel Developer" width="100%" />
 
 <a href="https://github.com/SufiDevelope">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=2BD0EE&center=true&vCenter=true&width=720&height=50&lines=Building+Flutter+mobile+apps+%F0%9F%93%B1;Shipping+Laravel+%26+PHP+platforms+%F0%9F%9A%80;Adding+AI+features+with+OpenAI+%F0%9F%A4%96;4%2B+years+%E2%80%A2+Top+Rated+on+Upwork+%E2%AD%90" alt="Typing animation" />
@@ -237,4 +237,4 @@ I'm a **Full Stack Developer with 4+ years of experience** building web applicat
 </div>
 
 <!-- ===================== FOOTER ===================== -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,24&height=120&section=footer" width="100%" alt="" />
+<img src="./assets/footer.svg" width="100%" alt="" />
