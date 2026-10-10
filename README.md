@@ -32,7 +32,7 @@
 <table>
   <tr>
     <td width="240" align="center" valign="middle">
-      <img src="https://muhammadsufyan-portfolio.vercel.app/images/profile/sufyan.webp" alt="Muhammad Sufyan" width="220" />
+      <img src="https://muhammadsufyan-portfolio.vercel.app/images/profile/sufyan-github-circle.webp" alt="Muhammad Sufyan" width="220" />
     </td>
     <td valign="middle">
 
