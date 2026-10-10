@@ -1,7 +1,7 @@
 <!-- ===================== HEADER ===================== -->
 <div align="center">
 
-<img src="./assets/banner.svg" alt="Muhammad Sufyan - AI-Powered Flutter & Laravel Developer" width="100%" />
+<img src="https://muhammadsufyan-portfolio.vercel.app/images/profile/github-banner.svg" alt="Muhammad Sufyan - AI-Powered Flutter & Laravel Developer" width="100%" />
 
 <a href="https://github.com/SufiDevelope">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=2BD0EE&center=true&vCenter=true&width=720&height=50&lines=Building+Flutter+mobile+apps+%F0%9F%93%B1;Shipping+Laravel+%26+PHP+platforms+%F0%9F%9A%80;Adding+AI+features+with+OpenAI+%F0%9F%A4%96;4%2B+years+%E2%80%A2+Top+Rated+on+Upwork+%E2%AD%90" alt="Typing animation" />
@@ -237,4 +237,4 @@ I'm a **Full Stack Developer with 4+ years of experience** building web applicat
 </div>
 
 <!-- ===================== FOOTER ===================== -->
-<img src="./assets/footer.svg" width="100%" alt="" />
+<img src="https://muhammadsufyan-portfolio.vercel.app/images/profile/github-footer.svg" width="100%" alt="" />
