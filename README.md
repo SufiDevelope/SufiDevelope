@@ -4,7 +4,7 @@
 <img src="https://muhammadsufyan-portfolio.vercel.app/images/profile/github-banner.svg" alt="Muhammad Sufyan - AI-Powered Flutter & Laravel Developer" width="100%" />
 
 <a href="https://github.com/SufiDevelope">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=2BD0EE&center=true&vCenter=true&width=720&height=50&lines=Building+Flutter+mobile+apps+%F0%9F%93%B1;Shipping+Laravel+%26+PHP+platforms+%F0%9F%9A%80;Adding+AI+features+with+OpenAI+%F0%9F%A4%96;4%2B+years+%E2%80%A2+Top+Rated+on+Upwork+%E2%AD%90" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=2BD0EE&center=true&vCenter=true&width=720&height=50&lines=Building+Flutter+mobile+apps+%F0%9F%93%B1;Shipping+Laravel+%26+PHP+platforms+%F0%9F%9A%80;Adding+AI+features+with+OpenAI+%F0%9F%A4%96;4%2B+years+%E2%80%A2+13+five-star+Upwork+reviews+%E2%AD%90" alt="Typing animation" />
 </a>
 
 <br/>
@@ -18,7 +18,7 @@
 <br/><br/>
 
 <img src="https://img.shields.io/badge/Experience-4%2B%20Years-2BD0EE?style=flat-square&labelColor=0F131A" alt="Experience" />
-<img src="https://img.shields.io/badge/Upwork-5%E2%98%85%20Reviews-14A800?style=flat-square&labelColor=0F131A" alt="Upwork reviews" />
+<img src="https://img.shields.io/badge/Upwork-13%20Five--Star%20Reviews-14A800?style=flat-square&labelColor=0F131A" alt="Upwork reviews" />
 <img src="https://img.shields.io/badge/Focus-Web%20%7C%20Mobile%20%7C%20AI-8B5CF6?style=flat-square&labelColor=0F131A" alt="Focus" />
 <img src="https://img.shields.io/badge/Status-Open%20to%20Work-F59E0B?style=flat-square&labelColor=0F131A" alt="Status" />
 <img src="https://komarev.com/ghpvc/?username=SufiDevelope&label=Profile%20Views&color=2bd0ee&style=flat-square&labelColor=0F131A" alt="Profile views" />
@@ -198,7 +198,7 @@ I'm a **Full Stack Developer with 4+ years of experience** building web applicat
 
 ## ⭐ Why Work With Me
 
-| ⭐ 4+ years of development experience | ⭐ Top Rated on Upwork |
+| ⭐ 4+ years of development experience | ⭐ 13 five-star reviews on Upwork |
 |---|---|
 | **⭐ Strong Laravel & Flutter expertise** | **⭐ Full stack web & mobile development** |
 | **⭐ Clean & maintainable code** | **⭐ Scalable architecture & secure backend** |
