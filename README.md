@@ -1,171 +1,229 @@
-# Hi, I'm Muhammad Sufyan 👋
+<!-- ===================== HEADER ===================== -->
+<div align="center">
 
-### Laravel & Flutter Developer | PHP, CodeIgniter, MySQL, REST APIs
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12,14,18,24&height=240&section=header&text=Muhammad%20Sufyan&fontSize=62&fontColor=ffffff&fontAlignY=40&animation=fadeIn&desc=AI-Powered%20Flutter%20%26%20Laravel%20Developer&descSize=22&descAlignY=62&descColor=2bd0ee" alt="Muhammad Sufyan" width="100%" />
 
-I'm a Full Stack Developer with 4+ years of experience building web applications and mobile apps — mainly in **Laravel** and **Flutter**, with **CodeIgniter** and **core PHP** as my secondary stack.
+<a href="https://github.com/SufiDevelope">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=2BD0EE&center=true&vCenter=true&width=720&height=50&lines=Building+Flutter+mobile+apps+%F0%9F%93%B1;Shipping+Laravel+%26+PHP+platforms+%F0%9F%9A%80;Adding+AI+features+with+OpenAI+%F0%9F%A4%96;4%2B+years+%E2%80%A2+Top+Rated+on+Upwork+%E2%AD%90" alt="Typing animation" />
+</a>
 
-I work with **Laravel, PHP, CodeIgniter, Flutter, React, and Next.js**, helping startups, businesses, and agencies turn ideas into reliable, scalable products.
+<br/>
 
-I've also integrated **OpenAI APIs** into a couple of Laravel projects where AI features were part of the scope.
+<a href="https://muhammadsufyan-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-2BD0EE?style=for-the-badge&logo=googlechrome&logoColor=0F131A" alt="Portfolio" /></a>
+<a href="https://www.upwork.com/freelancers/~01c3979fcacbce026e"><img src="https://img.shields.io/badge/Upwork-14A800?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork" /></a>
+<a href="https://linkedin.com/in/muhammad-sufyan-576345255"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://wa.me/923224124179"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
+<a href="mailto:sufyan1120111@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
----
+<br/><br/>
 
-## About Me
+<img src="https://img.shields.io/badge/Experience-4%2B%20Years-2BD0EE?style=flat-square&labelColor=0F131A" alt="Experience" />
+<img src="https://img.shields.io/badge/Upwork-5%E2%98%85%20Reviews-14A800?style=flat-square&labelColor=0F131A" alt="Upwork reviews" />
+<img src="https://img.shields.io/badge/Focus-Web%20%7C%20Mobile%20%7C%20AI-8B5CF6?style=flat-square&labelColor=0F131A" alt="Focus" />
+<img src="https://img.shields.io/badge/Status-Open%20to%20Work-F59E0B?style=flat-square&labelColor=0F131A" alt="Status" />
+<img src="https://komarev.com/ghpvc/?username=SufiDevelope&label=Profile%20Views&color=2bd0ee&style=flat-square&labelColor=0F131A" alt="Profile views" />
 
-I specialize in building:
-- Laravel & PHP web applications
-- Flutter mobile apps (Android & iOS)
-- REST APIs & backend systems
-- CRM & business management systems
-- CodeIgniter applications
-- Third-party API integrations
-- Custom software solutions
+</div>
 
-My focus is on building software that is:
-- 🚀 Scalable
-- 🔒 Secure
-- ⚡ High Performance
-- 🧩 Maintainable
-- 💼 Business-focused
+<br/>
 
----
+## 👨‍💻 About Me
 
-## Tech Stack
+I'm a **Full Stack Developer with 4+ years of experience** building web applications and mobile apps, mainly in **Laravel** and **Flutter**, with **CodeIgniter** and **core PHP** as my secondary stack. I help startups, businesses and agencies turn ideas into reliable, scalable products, and I've integrated **OpenAI APIs** into Laravel projects where AI features were part of the scope.
 
-### Backend
-- Laravel
-- PHP
-- CodeIgniter
-- Core PHP
-- REST APIs
-- API Integrations
+<table>
+  <tr>
+    <td width="50%" valign="top">
 
-### Mobile
-- Flutter
-- React Native
+**🎯 What I focus on**
+- 🚀 Scalable architecture
+- 🔒 Secure backend development
+- ⚡ High-performance apps
+- 🧩 Clean, maintainable code
+- 💼 Business-focused solutions
 
-### Frontend
-- React.js
-- Next.js
-- JavaScript
-- HTML
-- CSS
+</td>
+    <td width="50%" valign="top">
 
-### Databases
-- MySQL
-- MongoDB
-- Firebase
+**⚙️ Currently**
+- 📱 Building Flutter apps with Laravel APIs
+- 🤖 Adding AI-assisted features to products
+- 🌐 Working with clients on Upwork
+- 📚 B.S. Computer Science, Virtual University of Pakistan
+- 🎓 Full Stack Development course, UET
 
-### AI Integration
-- OpenAI API
+</td>
+  </tr>
+</table>
 
-### Tools & Technologies
-- Git
-- GitHub
-- Docker
-- Postman
-- CI/CD
+<br/>
 
----
+## 🛠️ Tech Stack
 
-## Services I Offer
+<table>
+  <tr>
+    <td align="center" width="25%"><b>📱 Mobile</b></td>
+    <td width="75%">
+      <img src="https://skillicons.dev/icons?i=flutter,dart,react,firebase&theme=dark" alt="Mobile" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>⚙️ Backend</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=php,laravel,codeigniter,nodejs,postman&theme=dark" alt="Backend" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>🎨 Frontend</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,html,css&theme=dark" alt="Frontend" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>🗄️ Databases</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase&theme=dark" alt="Databases" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>🤖 AI</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
+      <img src="https://img.shields.io/badge/Chatbots-2BD0EE?style=for-the-badge&logoColor=0F131A&labelColor=0F131A" alt="Chatbots" />
+      <img src="https://img.shields.io/badge/AI%20Automation-8B5CF6?style=for-the-badge&labelColor=0F131A" alt="AI Automation" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>🧰 Tools</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,figma&theme=dark" alt="Tools" />
+    </td>
+  </tr>
+</table>
 
-### 🚀 PHP & Laravel Development
-- Custom PHP Applications
-- Laravel Web Applications
-- Laravel SaaS Platforms
-- REST API Development
-- Backend Architecture
-- Legacy PHP Modernization
-- Third-party API Integrations
+<br/>
 
-### 📱 Mobile App Development
-- Flutter Applications
-- React Native Applications
-- Mobile App APIs
-- Backend Development for Mobile Apps
-- Third-party API Integrations
+## 🚀 What I Build
 
-### 💻 CodeIgniter Development
-- Custom CodeIgniter Applications
-- REST API Development
-- Admin Dashboards
-- Legacy PHP Modernization
+| | Service | What you get |
+|---|---|---|
+| 🐘 | **PHP & Laravel Development** | Custom PHP apps, Laravel web apps and SaaS platforms, REST APIs, backend architecture, legacy PHP modernization |
+| 📱 | **Mobile App Development** | Flutter and React Native apps for Android & iOS, with the APIs and backend they need |
+| 💻 | **CodeIgniter Development** | Custom CodeIgniter applications, REST APIs, admin dashboards |
+| 🌐 | **Full Stack Development** | React and Next.js apps, admin dashboards, SaaS, CRM & business systems |
+| 🤖 | **AI Integration** | OpenAI-powered features, chatbots and automation workflows |
+| 🔌 | **API & Payment Integrations** | Third-party APIs, payment gateways, business automation |
 
-### 💼 Full Stack Development
-- React Applications
-- Next.js Applications
-- Admin Dashboards
-- SaaS Platforms
-- CRM & Business Systems
+<details>
+<summary><b>✨ Solutions I've built (click to expand)</b></summary>
+<br/>
 
----
+✅ SaaS platforms &nbsp;•&nbsp; ✅ CRM & business management systems &nbsp;•&nbsp; ✅ E-commerce platforms<br/>
+✅ Booking & management systems &nbsp;•&nbsp; ✅ Marketplace platforms &nbsp;•&nbsp; ✅ Payment integrations<br/>
+✅ Business automation systems &nbsp;•&nbsp; ✅ Custom web & mobile applications &nbsp;•&nbsp; ✅ AI-assisted features
 
-## Solutions I Build
+</details>
 
-✔ SaaS Platforms  
-✔ CRM & Business Management Systems  
-✔ E-commerce Platforms  
-✔ Booking & Management Systems  
-✔ Marketplace Platforms  
-✔ Payment Integrations  
-✔ Business Automation Systems  
-✔ Custom Web & Mobile Applications  
-✔ AI-Assisted Features (where relevant)
+<br/>
 
----
+## 📂 Featured Projects
 
-## Why Work With Me?
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🩺 AI-Powered Healthcare App</h3>
+      <b>HealthHive</b> · <code>Flutter</code> <code>Laravel</code> <code>AI</code><br/>
+      AI interview system, personalized recommendations, AI-based health analysis, healthcare services and an e-commerce store.
+    </td>
+    <td width="50%" valign="top">
+      <h3>🛍️ Saudi E-Commerce Platform</h3>
+      <b>GoGlam</b> · <code>Laravel</code> <code>PHP</code> <code>AI Search</code><br/>
+      Arabic & English with full RTL layouts, AI-powered product search and a complete shopping experience on web and mobile.
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <h3>💳 Fintech Virtual Card Platform</h3>
+      <b>Afrocards.et</b> · <code>Laravel</code> <code>PHP</code> <code>Payments</code><br/>
+      Create and manage virtual cards for secure online payments, with transaction tracking and payment processing.
+    </td>
+    <td valign="top">
+      <h3>🍔 Food Delivery App · 500K+ downloads</h3>
+      <b>FoodPapa</b> · <code>Flutter</code> <code>Firebase</code> <code>REST API</code><br/>
+      Location-based restaurant discovery, category browsing, deals and order placement on Android & iOS.
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <h3>🍽️ Restaurant Management System</h3>
+      <b>Ethio Digital Menu</b> · <code>Laravel</code> <code>PHP</code> <code>MySQL</code><br/>
+      Digital/QR menus, order management and responsive dashboards for restaurants.
+    </td>
+    <td valign="top">
+      <h3>📰 Social & News Platform</h3>
+      <b>Imperium AI</b> · <code>Flutter</code> <code>Dart</code> <code>Firebase</code><br/>
+      Users post content and get featured across partner news outlets, with likes, comments and a credit system.
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <h3>🎟️ Event Booking & E-Ticketing</h3>
+      <b>Badar Expo</b> · <code>Flutter</code> <code>Firebase</code> <code>QR Tickets</code><br/>
+      Event discovery and booking with QR-based e-tickets and a bookings dashboard.
+    </td>
+    <td valign="top">
+      <h3>📣 Social Media Marketing Platform</h3>
+      <b>HabeshaPost</b> · <code>CodeIgniter</code> <code>PHP</code> <code>REST API</code><br/>
+      Manage campaigns, marketing services, orders and online presence from one dashboard.
+    </td>
+  </tr>
+</table>
 
-⭐ 4+ Years of Development Experience
-⭐ Top Rated on Upwork
-⭐ Strong Laravel & Flutter Expertise
-⭐ Full Stack Web & Mobile Development
-⭐ Clean & Maintainable Code
-⭐ Scalable Architecture
-⭐ Secure Backend Development
-⭐ Performance Optimization
-⭐ Clear Communication
+<div align="center">
+  <a href="https://muhammadsufyan-portfolio.vercel.app/portfolio/"><img src="https://img.shields.io/badge/See%20all%20projects%20%E2%86%92-2BD0EE?style=for-the-badge&labelColor=0F131A" alt="See all projects" /></a>
+</div>
 
----
+<br/>
 
-## Featured Projects
+## ⭐ Why Work With Me
 
-### 🔹 Fintech Virtual Card Platform (Laravel)
-Afrocards.et — a fintech platform for creating and managing virtual cards for secure online payments, with transaction tracking and payment processing.
+| ⭐ 4+ years of development experience | ⭐ Top Rated on Upwork |
+|---|---|
+| **⭐ Strong Laravel & Flutter expertise** | **⭐ Full stack web & mobile development** |
+| **⭐ Clean & maintainable code** | **⭐ Scalable architecture & secure backend** |
+| **⭐ Performance optimization** | **⭐ Clear communication** |
 
-### 🔹 Food Delivery App — 500K+ Downloads (Flutter)
-FoodPapa — a food delivery app with location-based restaurant discovery, category browsing, deals, and order placement.
+<br/>
 
-### 🔹 Restaurant Management System (Laravel)
-Ethio Digital Menu — a restaurant management system with digital/QR menus, order management, and responsive dashboards.
+## 📊 GitHub Stats
 
-### 🔹 Social & News Platform (Flutter)
-Imperium AI — a social platform where users post content and get featured across partner news outlets, built with Flutter, Dart, and Firebase.
+<div align="center">
 
-### 🔹 Event Booking & E-Ticketing App (Flutter)
-Badar Expo — an event discovery and ticketing app with QR-based e-tickets and a bookings dashboard.
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=SufiDevelope&show_icons=true&hide_border=true&bg_color=0F131A&title_color=2BD0EE&text_color=94A3B8&icon_color=8B5CF6&ring_color=2BD0EE&include_all_commits=true&count_private=true" alt="GitHub stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SufiDevelope&layout=compact&hide_border=true&bg_color=0F131A&title_color=2BD0EE&text_color=94A3B8&langs_count=8" alt="Top languages" />
 
-### 🔹 Social Media Marketing Platform (CodeIgniter)
-HabeshaPost — a social media marketing platform for managing campaigns, services, and online presence.
+<img src="https://streak-stats.demolab.com?user=SufiDevelope&theme=dark&hide_border=true&background=0F131A&ring=2BD0EE&fire=8B5CF6&currStreakLabel=2BD0EE&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=94A3B8" alt="GitHub streak" />
 
----
+</div>
 
-## Let's Connect
+<br/>
 
-📧 **Email:**
-[sufyan1120111@gmail.com](mailto:sufyan1120111@gmail.com)
+## 🤝 Let's Connect
 
-💼 **Upwork:**
-[View My Upwork Profile](https://www.upwork.com/freelancers/~01c3979fcacbce026e)
+<div align="center">
 
-🔗 **LinkedIn:**
-[Connect on LinkedIn](https://linkedin.com/in/muhammad-sufyan-576345255)
+| 📧 Email | 💼 Upwork | 🔗 LinkedIn | 🌐 Portfolio |
+|:---:|:---:|:---:|:---:|
+| [sufyan1120111@gmail.com](mailto:sufyan1120111@gmail.com) | [View profile](https://www.upwork.com/freelancers/~01c3979fcacbce026e) | [Connect](https://linkedin.com/in/muhammad-sufyan-576345255) | [Visit site](https://muhammadsufyan-portfolio.vercel.app) |
 
-🔗 **My Portfolio Website:**
-[View my Portfolio](https://muhammadsufyan-portfolio.vercel.app)
+### 💬 Open to freelance & development opportunities
 
----
+*Looking for a developer to build a Laravel web application, Flutter mobile app, CodeIgniter system, AI-powered feature, or backend/API work? Let's talk.*
 
-### Open to Freelance & Development Opportunities
-If you're looking for a developer to build a Laravel web application, Flutter mobile app, CodeIgniter system, or backend/API work, feel free to get in touch.
+<a href="https://wa.me/923224124179"><img src="https://img.shields.io/badge/Chat%20on%20WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
+<a href="mailto:sufyan1120111@gmail.com"><img src="https://img.shields.io/badge/Hire%20Me-2BD0EE?style=for-the-badge&logo=gmail&logoColor=0F131A" alt="Hire me" /></a>
+
+</div>
+
+<!-- ===================== FOOTER ===================== -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,24&height=120&section=footer" width="100%" alt="" />
