@@ -29,43 +29,29 @@
 
 ## 👨‍💻 About Me
 
-<table>
-  <tr>
-    <td width="240" align="center" valign="middle">
-      <img src="https://muhammadsufyan-portfolio.vercel.app/images/profile/sufyan-github-circle.webp" alt="Muhammad Sufyan" width="220" />
-    </td>
-    <td valign="middle">
+<div align="center">
+  <img src="https://muhammadsufyan-portfolio.vercel.app/images/profile/sufyan-github-circle.webp" alt="Muhammad Sufyan" width="200" />
+</div>
+
+<br/>
 
 I'm a **Full Stack Developer with 4+ years of experience** building web applications and mobile apps, mainly in **Laravel** and **Flutter**, with **CodeIgniter** and **core PHP** as my secondary stack. I also build backends with **Python (Django & FastAPI)** and web apps with **Next.js**. I help startups, businesses and agencies turn ideas into reliable, scalable products, and I've integrated **OpenAI APIs** into projects where AI features were part of the scope.
 
-</td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-
 **🎯 What I focus on**
+
 - 🚀 Scalable architecture
 - 🔒 Secure backend development
 - ⚡ High-performance apps
 - 🧩 Clean, maintainable code
 - 💼 Business-focused solutions
 
-</td>
-    <td width="50%" valign="top">
-
 **⚙️ Currently**
+
 - 📱 Building Flutter apps with Laravel APIs
 - 🤖 Adding AI-assisted features to products
 - 🌐 Working with clients on Upwork
 - 📚 B.S. Computer Science, Virtual University of Pakistan
 - 🎓 Full Stack Development course, UET
-
-</td>
-  </tr>
-</table>
 
 <br/>
 
