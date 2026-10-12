@@ -71,46 +71,31 @@ I'm a **Full Stack Developer with 4+ years of experience** building web applicat
 
 ## 🛠️ Tech Stack
 
-<table>
-  <tr>
-    <td align="center" width="25%"><b>📱 Mobile</b></td>
-    <td width="75%">
-      <img src="https://skillicons.dev/icons?i=flutter,dart,react,firebase&theme=dark" alt="Mobile" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><b>⚙️ Backend</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=php,laravel,codeigniter,nodejs,postman&theme=dark" alt="Backend" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><b>🎨 Frontend</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,html,css&theme=dark" alt="Frontend" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><b>🗄️ Databases</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase&theme=dark" alt="Databases" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><b>🤖 AI</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
-      <img src="https://img.shields.io/badge/Chatbots-2BD0EE?style=for-the-badge&logoColor=0F131A&labelColor=0F131A" alt="Chatbots" />
-      <img src="https://img.shields.io/badge/AI%20Automation-8B5CF6?style=for-the-badge&labelColor=0F131A" alt="AI Automation" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><b>🧰 Tools</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,figma&theme=dark" alt="Tools" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+<b>📱 Mobile</b><br/>
+<img src="https://skillicons.dev/icons?i=flutter,dart,react,firebase&theme=dark&perline=4" alt="Mobile" />
+
+<b>⚙️ Backend</b><br/>
+<img src="https://skillicons.dev/icons?i=php,laravel,python,django,fastapi,nodejs,nextjs&theme=dark&perline=4" alt="Backend" /><br/>
+<img src="https://img.shields.io/badge/CodeIgniter-EE4623?style=for-the-badge&logo=codeigniter&logoColor=white" alt="CodeIgniter" />
+
+<b>🎨 Frontend</b><br/>
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,html,css&theme=dark&perline=4" alt="Frontend" />
+
+<b>🗄️ Databases</b><br/>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase&theme=dark&perline=4" alt="Databases" />
+
+<b>🤖 AI</b><br/>
+<img src="https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
+<img src="https://img.shields.io/badge/Chatbots-2BD0EE?style=for-the-badge&labelColor=0F131A" alt="Chatbots" />
+<img src="https://img.shields.io/badge/AI%20Automation-8B5CF6?style=for-the-badge&labelColor=0F131A" alt="AI Automation" />
+
+<b>🧰 Tools</b><br/>
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,figma,postman&theme=dark&perline=3" alt="Tools" />
+
+</div>
+
 
 <br/>
 
