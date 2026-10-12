@@ -36,7 +36,7 @@
     </td>
     <td valign="middle">
 
-I'm a **Full Stack Developer with 4+ years of experience** building web applications and mobile apps, mainly in **Laravel** and **Flutter**, with **CodeIgniter** and **core PHP** as my secondary stack. I help startups, businesses and agencies turn ideas into reliable, scalable products, and I've integrated **OpenAI APIs** into Laravel projects where AI features were part of the scope.
+I'm a **Full Stack Developer with 4+ years of experience** building web applications and mobile apps, mainly in **Laravel** and **Flutter**, with **CodeIgniter** and **core PHP** as my secondary stack. I also build backends with **Python (Django & FastAPI)** and web apps with **Next.js**. I help startups, businesses and agencies turn ideas into reliable, scalable products, and I've integrated **OpenAI APIs** into projects where AI features were part of the scope.
 
 </td>
   </tr>
@@ -96,7 +96,6 @@ I'm a **Full Stack Developer with 4+ years of experience** building web applicat
 
 </div>
 
-
 <br/>
 
 ## 🚀 What I Build
@@ -104,6 +103,7 @@ I'm a **Full Stack Developer with 4+ years of experience** building web applicat
 | | Service | What you get |
 |---|---|---|
 | 🐘 | **PHP & Laravel Development** | Custom PHP apps, Laravel web apps and SaaS platforms, REST APIs, backend architecture, legacy PHP modernization |
+| 🐍 | **Python Backend Development** | Django and FastAPI REST APIs, backend services, AI-ready architectures |
 | 📱 | **Mobile App Development** | Flutter and React Native apps for Android & iOS, with the APIs and backend they need |
 | 💻 | **CodeIgniter Development** | Custom CodeIgniter applications, REST APIs, admin dashboards |
 | 🌐 | **Full Stack Development** | React and Next.js apps, admin dashboards, SaaS, CRM & business systems |
@@ -214,7 +214,7 @@ I'm a **Full Stack Developer with 4+ years of experience** building web applicat
 
 ### 💬 Open to freelance & development opportunities
 
-*Looking for a developer to build a Laravel web application, Flutter mobile app, CodeIgniter system, AI-powered feature, or backend/API work? Let's talk.*
+*Looking for a developer to build a Laravel web application, Flutter mobile app, Python/Django/FastAPI backend, Next.js app, AI-powered feature, or API work? Let's talk.*
 
 <a href="https://wa.me/923224124179"><img src="https://img.shields.io/badge/Chat%20on%20WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
 <a href="mailto:sufyan1120111@gmail.com"><img src="https://img.shields.io/badge/Hire%20Me-2BD0EE?style=for-the-badge&logo=gmail&logoColor=0F131A" alt="Hire me" /></a>
