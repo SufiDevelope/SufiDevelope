@@ -71,30 +71,47 @@ I'm a **Full Stack Developer with 4+ years of experience** building web applicat
 
 ## 🛠️ Tech Stack
 
-<div align="center">
-
-<b>📱 Mobile</b><br/>
-<img src="https://skillicons.dev/icons?i=flutter,dart,react,firebase&theme=dark&perline=4" alt="Mobile" />
-
-<b>⚙️ Backend</b><br/>
-<img src="https://skillicons.dev/icons?i=php,laravel,python,django,fastapi,nodejs,nextjs&theme=dark&perline=4" alt="Backend" /><br/>
-<img src="https://img.shields.io/badge/CodeIgniter-EE4623?style=for-the-badge&logo=codeigniter&logoColor=white" alt="CodeIgniter" />
-
-<b>🎨 Frontend</b><br/>
-<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,html,css&theme=dark&perline=4" alt="Frontend" />
-
-<b>🗄️ Databases</b><br/>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase&theme=dark&perline=4" alt="Databases" />
-
-<b>🤖 AI</b><br/>
-<img src="https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
-<img src="https://img.shields.io/badge/Chatbots-2BD0EE?style=for-the-badge&labelColor=0F131A" alt="Chatbots" />
-<img src="https://img.shields.io/badge/AI%20Automation-8B5CF6?style=for-the-badge&labelColor=0F131A" alt="AI Automation" />
-
-<b>🧰 Tools</b><br/>
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,figma,postman&theme=dark&perline=3" alt="Tools" />
-
-</div>
+<table>
+  <tr>
+    <td align="left" valign="middle" width="140"><b>📱 Mobile</b></td>
+    <td align="left" valign="middle">
+      <img src="https://skillicons.dev/icons?i=flutter,dart,react,firebase&theme=dark&perline=8" alt="Mobile" />
+    </td>
+  </tr>
+  <tr>
+    <td align="left" valign="middle"><b>⚙️ Backend</b></td>
+    <td align="left" valign="middle">
+      <img src="https://skillicons.dev/icons?i=php,laravel,python,django,fastapi,nodejs,nextjs&theme=dark&perline=8" alt="Backend" /><br/>
+      <img src="https://img.shields.io/badge/CodeIgniter-EE4623?style=for-the-badge&logo=codeigniter&logoColor=white" alt="CodeIgniter" />
+    </td>
+  </tr>
+  <tr>
+    <td align="left" valign="middle"><b>🎨 Frontend</b></td>
+    <td align="left" valign="middle">
+      <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,html,css&theme=dark&perline=8" alt="Frontend" />
+    </td>
+  </tr>
+  <tr>
+    <td align="left" valign="middle"><b>🗄️ Databases</b></td>
+    <td align="left" valign="middle">
+      <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase&theme=dark&perline=8" alt="Databases" />
+    </td>
+  </tr>
+  <tr>
+    <td align="left" valign="middle"><b>🤖 AI</b></td>
+    <td align="left" valign="middle">
+      <img src="https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
+      <img src="https://img.shields.io/badge/Chatbots-2BD0EE?style=for-the-badge&labelColor=0F131A" alt="Chatbots" />
+      <img src="https://img.shields.io/badge/AI%20Automation-8B5CF6?style=for-the-badge&labelColor=0F131A" alt="AI Automation" />
+    </td>
+  </tr>
+  <tr>
+    <td align="left" valign="middle"><b>🧰 Tools</b></td>
+    <td align="left" valign="middle">
+      <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,figma,postman&theme=dark&perline=8" alt="Tools" />
+    </td>
+  </tr>
+</table>
 
 <br/>
 
